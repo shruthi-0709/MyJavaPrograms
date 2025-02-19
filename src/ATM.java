@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ATM {
     public static void main(String[] args) {
-        int correctPIN = 4567;
+        int correctPIN = 7995;
         int attempts = 0;
 
         // 🛡️ Scanner will automatically close after the try block
